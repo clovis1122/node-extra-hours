@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1017409116",
+    "guid": "77e31cb320964d7baae05ef52a711435",
+    "wid": "773531",
+    "pid": "20981142",
+    "tid": "10090125",
+    "billable": "false",
+    "start": "2018-11-01T14:50:00+00:00",
+    "stop": "2018-11-01T21:10:00+00:00",
+    "duration": "22800",
+    "description": "#54367 Helping to finish the quote migration",
+    "tags": [
+      "Extra"
+    ],
+    "duronly": "false",
+    "at": "2018-11-02T13:06:59+00:00",
+    "uid": "280166"
+  }
+]
